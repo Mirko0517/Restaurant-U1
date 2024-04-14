@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">restaurant</string>
+    <string name="pastel_choclo">Pastel de Choclo</string>
+    <string name="cantidad1">Cant.</string>
+    <string name="cazuela">Cazuela</string>
+    <string name="cantidad2">Cant.</string>
+    <string name="comida">Comida</string>
+    <string name="propina">Propina</string>
+    <string name="total">Total</string>
+    <string name="precioPastel">$12.000</string>
+    <string name="precioCazuela">$10.000</string>
+    <string name="plato_cazuela">Plato Cazuela</string>
+    <string name="logo_restaurant">Logo Restaurant</string>
+    <string name="plato_pastel">Plato Pastel</string>
+    <string name="ingresar_cantidad1">Ingresar Cantidad1</string>
+    <string name="ingresar_cantidad2">Ingresar Cantidad2</string>
+
+</resources>
